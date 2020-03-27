@@ -1,0 +1,3 @@
+[submodule "NSM-data-analysis"]
+	path = NSM-data-analysis
+	url = https://github.com/hardenedlinux/NSM-data-analysis.git
